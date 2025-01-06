@@ -1,5 +1,5 @@
 ![new-cover](./images/cover.png)
-[![Stand With Palestine](./images/palestine.jpg)]
+![Stand With Palestine](./images/palestine.jpg)
 
 # المصدر المفتوح التونسي <img src="./images/Flag_of_Tunisia.gif" alt="Flag_of_Tunisia" width="33" height="23"/>
 
